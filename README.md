@@ -34,3 +34,6 @@ The average Population for few countries is Visualized and forecasted.
 6. ![image](https://user-images.githubusercontent.com/65697330/134487397-99bd3a1c-13ac-42d6-8e4d-eff7a5bed125.png)
 
  The counties with Total Vaccinations are visualized. According to the data China has 2000 million people vaccinated followed by India with 600 million.
+ 
+ 
+ This project is inspired by Alex Freberg's Data Analyst Portfolio Project Series [link](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f)
