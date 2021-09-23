@@ -7,6 +7,8 @@ Done Data Analysis using SQL (PostgreSQL) analysing countrywise, continentwise, 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 Tools: PostgreSQL, Tableu, MS Excel
 
+Dashboards of Tableau Public: [Dashboard_1](https://public.tableau.com/app/profile/raghu7462/viz/Covid-19DataAnalysisProject_1/Dashboard1), [Dashboard_2](https://public.tableau.com/app/profile/raghu7462/viz/Covid-19DataAnalysisProject_2/Dashboard2) 
+
 Visualizing Tables created in SQL:
 1.  Total Cases, Deaths and Death Rate<br>
 ![image](https://user-images.githubusercontent.com/65697330/134484888-e9b45ef6-5333-44b1-b5f9-b51ee794baba.png)
