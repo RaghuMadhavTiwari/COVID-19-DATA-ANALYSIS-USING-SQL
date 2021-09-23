@@ -23,7 +23,7 @@ FROM CovidDeaths
 GROUP BY location, population
 ORDER BY HighestPercPopInfected DESC; 
 
--- 4.
+-- 4. Percentage of the Popluation Infected
 
 Select Location, Population,date, MAX(total_cases) as HighestInfectionCount,  Max((total_cases::FLOAT/population))*100 as PercentPopulationInfected
 From CovidDeaths
