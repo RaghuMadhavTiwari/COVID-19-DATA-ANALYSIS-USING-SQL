@@ -1,4 +1,4 @@
--- 1. Total Cases vs Population
+-- 1. Total Cases, Deaths and Death Rate
 
 SELECT SUM(new_cases) as Total_Cases, SUM(new_deaths) as Total_Deaths, (SUM(new_deaths::FLOAT)/SUM(new_cases))*100 as DeathRate
 FROM CovidDeaths
